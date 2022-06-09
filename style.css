@@ -1,0 +1,92 @@
+* {
+    background-color: black;
+    color: white;
+    font-family: 'Helvetica';
+    font-size: 18px;
+}
+
+#pagina, #footer {
+    width: 600px;
+    margin: auto;
+}
+
+p {
+    font-weight: 400;
+}
+
+h1 {
+    font-weight: 700;
+    color: #00A857;
+    font-size: 30px;
+}
+img {
+    width: 100%;
+}
+
+#fim {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+#rSocial{
+    width: 25px;
+    height: 25px;
+}
+
+#rede img{
+    background-color: white;
+    color: black;
+    width: 25px;
+    height: 25px;
+}
+
+tfoot div p, tfoot tr td, tfoot tr td #textao, tfoot div, tfoot tr td a, #foot, #tlink{
+    background-color: white;
+    color: black;
+}
+
+#links {
+    display: flex;
+    justify-content: space-around;
+    margin: 30px;
+}
+tfoot tr td a {
+    color: #B2B2B2;
+}
+
+#diferenca {
+    width: 413px;
+    height: 228px;
+    margin-left: 60px;
+}
+
+#tt p {
+    width: 453px;
+    height: 71px;
+    margin-left: 60px;
+}
+
+#foot {
+    margin: 30px 0;
+}
+
+#fulano, h1 {
+    margin-left: 61px;
+}
+
+#textao{
+    font-size: 12px;
+    background-color: #F6F6F6;
+}
+
+#fim div p {
+    color: #00A857;
+    font-size: 18px;
+}
+
+#cinza {
+    margin: 30px;
+    background-color: #F6F6F6;
+    padding: 33px;
+}
